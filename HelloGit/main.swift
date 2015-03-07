@@ -3,10 +3,10 @@
 //  HelloGit
 //
 //  Created by David Steuber on 3/6/15.
-//  Copyright (c) 2015 David Steuber. All rights reserved.
+//  Copyright (c) 2015 David Steuber.
 //
 
 import Foundation
 
-println("Hello, World!")
+println("Hello, Git!")
 
